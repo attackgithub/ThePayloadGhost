@@ -8,3 +8,8 @@ Vulnerando Android
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/fotos/tpg.png">
 <p>Resultado:</p>
 <img src="https://github.com/error404-notfound/ThePayloadGhost/blob/master/fotos/resultado.png">
+<h6>Uso:</h6>
+<p>git clone https://github.com/error404-notfound/ThePayloadGhost</p>
+<p>cd ThePayloadGhost</p>
+<p>chmod 777 install.sh</p>
+<p>./install.sh</p>
